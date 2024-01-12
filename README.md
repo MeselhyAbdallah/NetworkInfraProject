@@ -3,8 +3,9 @@
 ## Overview
 This project focuses on creating a robust, secure, and highly available network infrastructure across multiple sites, integrating cutting-edge technologies and best practices. Explore the technical intricacies of each component and configuration as we delve into the world of network implementation.
 
+![Picture1](https://github.com/MeselhyAbdallah/NetworkInfraProject/assets/156363787/5a6ee7f0-e26b-447c-bca5-6fe4fcff3e1e)
 
-![Picture1](https://github.com/MeselhyAbdallah/NetworkingProject/assets/156363787/77da274a-ecd6-4ee2-afb4-5b2f9f2856bf)
+
 
 ## Table of Contents
 - [Project Title](#project-title)
@@ -85,7 +86,8 @@ VMware Workstation is a virtualization platform that enables the creation and ma
 
 # Cairo Site
 ## Cairo-Site Networking Configuration
-[![CairoSite](https://github.com/MeselhyAbdallah/NetworkingProject/assets/156363787/d652b223-356c-4b74-8905-923b14cdd197)](https://github.com/MeselhyAbdallah/NetworkingProject/assets/156363787/d652b223-356c-4b74-8905-923b14cdd197)
+
+![CairoSite](https://github.com/MeselhyAbdallah/NetworkInfraProject/assets/156363787/ffdf2900-0f93-42d2-9d47-a1c2af98e415)
 
 ### Core and Distribution Switch Configuration:
 1. **Layer 3 Connectivity:**
@@ -125,7 +127,8 @@ VMware Workstation is a virtualization platform that enables the creation and ma
 
 # Alex Site
 ## Alex-Site Networking Configuration
-[![Alex](https://github.com/MeselhyAbdallah/NetworkingProject/assets/156363787/dc781222-66f9-4451-ba95-2d288c21aacf)](https://github.com/MeselhyAbdallah/NetworkingProject/assets/156363787/dc781222-66f9-4451-ba95-2d288c21aacf)
+
+![Alex](https://github.com/MeselhyAbdallah/NetworkInfraProject/assets/156363787/ca3ed7fc-14a9-4ed2-a81d-714cb5afb685)
 
 ### VLAN and Gateway Configuration:
 1. **VLAN Creation:**
@@ -160,7 +163,8 @@ VMware Workstation is a virtualization platform that enables the creation and ma
 
 # DC Site & Services
 ## DC-Site , Services
-[![DC](https://github.com/MeselhyAbdallah/NetworkingProject/assets/156363787/dba4a870-8357-4c99-bda7-19bfce515e2e)](https://github.com/MeselhyAbdallah/NetworkingProject/assets/156363787/dba4a870-8357-4c99-bda7-19bfce515e2e)
+
+![DC](https://github.com/MeselhyAbdallah/NetworkInfraProject/assets/156363787/fe485927-54b7-4bd9-aee8-065c86e911a7)
 
 ## DC-GW-3 Configuration
 - Configure IP addresses on interfaces of DC-GW-3.
